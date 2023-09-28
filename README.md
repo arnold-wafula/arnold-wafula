@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnold-wafula
 - 👀 I’m interested in Kotlin and Android development
-- 🌱 I’m currently learning Jettpack Compose and UI/UX using Figma and Adobe XD
+- 🌱 I’m currently learning Jetpack Compose and UI/UX using Figma and Adobe XD
 - 💞️ I’m looking to collaborate on any open source Kotlin projects
 - 📫 How to reach me ...
 
