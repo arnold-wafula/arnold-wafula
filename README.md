@@ -4,7 +4,7 @@
 - 🌱 Through the years I have learnt Kotlin and Jetpack Compose for Android Development
 - 💼 In my current job I use PHP/Laravel framework and Python/Django to develop web applications
 - 💞️ I’m open to any employment opportunities and I'm looking forward to collaborating on open source projects
-- I also run a music and entertainment blog which you can check out at www.doba.co.ke
+- 🌐 I also run a music and entertainment blog which you can check out at www.doba.co.ke
 - 📫 Reach me at my email: arnold.wafula0@gmail.com
 
 <!---
